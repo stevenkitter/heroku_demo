@@ -1,1 +1,1 @@
-web: go-getting-started
+api: heroku_demo
